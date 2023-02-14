@@ -11,4 +11,4 @@
 
 # Molly's favorite species: My favorite species are blue whales (Balaenoptera musculus)
 # My favorite animlas are blue whales because they have been coined the social giants of the ocean. Even though blue whales are the largest mammals on earth and in the Ocean, they dont consume other fish besides maybe on accident.This makes them first level consumers in their ecosystems. They are also social creatures and like to stick together. Unfourtunalty these animals are endangered speices because of over commerical hunting and their changing enviornments due to Climate Change. Another really cool fact about blue whales is that the sing to each other as way of communicating and those songs evolve as they are passed between populations. The songs originate on the west coast of Australia and then travel across the entire ocean before reaching the east coast. 
-# Ahmed's favorite species:  
+# Ahmed's favorite species:   

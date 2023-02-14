@@ -4,4 +4,4 @@ installed.packages("tidyverse")
 library(spocc)
 library(tidyverse)
 
-myQuery
+myQuery<-occ(query="Rana boylii", from=)

@@ -38,3 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 
 github.R
+data/cmip5/*
+data/wc2-5/*

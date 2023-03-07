@@ -41,3 +41,5 @@ github.R
 data/cmip5/*
 data/wc2-5/*
 wc2-5/*
+*.bil
+*.hdr

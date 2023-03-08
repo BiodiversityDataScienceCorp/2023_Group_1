@@ -11,7 +11,7 @@ myQuery
 
 frog<-myQuery$gbif$data$Rana_boylii
 
-#initial graphing of occurrence data
+#initial graphing of occurrence data without country map lines
 ggplot()+
   geom_point(data=frog, mapping=aes(x=latitude, y= longitude),show.legend = FALSE)+
   labs(title="Data Occurence of R. Boylii")
@@ -20,7 +20,7 @@ ggplot()+
 
 wrld<-ggplot2::map_data("world")
 
-#adding country lines
+#adding country lines to the occurence data
 
 ggplot()+
   geom_polygon(data=wrld, mapping = aes(x=long, y=lat,group=group),fill="grey75", colour="grey66")+
@@ -28,7 +28,7 @@ ggplot()+
   labs(title="Data Occurence of R. Boylii")
 
 
-#remove Alaska points because they were from the 70s, NA, and duplicates points
+#remove Alaska points, NA, and duplicates points
 cleanFrog<-frog %>% filter(latitude!="NA"|longitude!="NA")%>%filter(latitude<50)%>% mutate(location=paste(latitude,longitude,dateIdentified, sep="/"))%>%
   distinct(location,.keep_all = TRUE)
   

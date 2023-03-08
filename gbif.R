@@ -46,7 +46,7 @@ ggplot()+
   scale_size_area()+
   borders("state")
 
-#Save plot 
+#Save plot
 ggsave("occurenceData.png")
 
        

@@ -111,12 +111,12 @@ ggplot() +
        fill = "Environmental \nSuitability") + # \n is a line break
   theme(legend.box.background=element_rect(),legend.box.margin=margin(5,5,5,5))
 
-ggsave(filename = "AbbycurrentSDM.jpg",
+ggsave(filename = "tempCurrentSDM.jpg",
        plot=last_plot(),
        path="output", 
        width=1600, 
        height=800, 
-       units="px")
+       units="px") # save graph as a jpg file
 
 # Future SDM
 
@@ -159,9 +159,9 @@ ggplot() +
        fill = "Env Suitability") +
   theme(legend.box.background=element_rect(),legend.box.margin=margin(5,5,5,5))
 
-ggsave(filename = "AbbyfutureSDM.jpg",
+ggsave(filename = "tempFutureSDM.jpg",
        plot=last_plot(),
        path="output", 
        width=1600, 
        height=800, 
-       units="px") #
+       units="px") # save graph as a jpg file

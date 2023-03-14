@@ -111,7 +111,7 @@ ggplot() +
        fill = "Environmental \nSuitability") + # \n is a line break
   theme(legend.box.background=element_rect(),legend.box.margin=margin(5,5,5,5))
 
-ggsave(filename = "tempCurrentSDM.jpg",
+ggsave(filename = "CurrentSDM.jpg",
        plot=last_plot(),
        path="output", 
        width=1600, 

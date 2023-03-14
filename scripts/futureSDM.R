@@ -46,3 +46,10 @@ ggplot() +
 
 ggsave("FutureSDM.png", width = NA, scale=3)
 
+ggsave(filename = "futureSDM.jpg",
+       plot=last_plot(),
+       path="output", 
+       width=1600, 
+       height=800, 
+       units="px") # save graph as a jpg file
+

@@ -39,13 +39,18 @@ ymax<-max(cleanFrog$latitude)
 ymin<-min(cleanFrog$latitude)
 
 ggplot()+
-  geom_polygon(data=wrld, mapping = aes(x=long, y=lat,group=group),fill="deepskyblue3", colour="grey75")+
+  geom_polygon(data=wrld, mapping = aes(x=long, y=lat,group=group),fill="floralwhite", colour="grey60")+
   geom_point(data=cleanFrog, mapping=aes(x=longitude, y= latitude),show.legend = FALSE)+
-  labs(title="Data Occurence of R. Boylii")+
+  labs(title="Data Occurence of R. Boylii", x="Longitude", y = "Latitude")+
   coord_fixed(xlim=c(xmin,xmax), ylim=c(ymin,ymax))+
   scale_size_area()+
   borders("state")
 
-
+ggsave(filename = "occurrenceMapRBoylii.jpg",
+       plot=last_plot(),
+       path="output", 
+       width=1600, 
+       height=800, 
+       units="px") # save graph as a jpg file
 
        

@@ -1,10 +1,26 @@
-# 2023 Group 1
+## 2023 Group 1
+## Repository for Making Species Occurrence and Distribution maps for the Rana Boylii - Foothill Yellow Legged Frog 
 
 ### Elizabeth EbadiRad, Abby Wood, Molly Hennelly, Ahmed Abdalla Ahmed Esmail
 
-# Our species: 🐸 Rana Boylii - Foothill Yellow Legged Frog 🐸
+# 🐸 Overview
 
-#### Overview:
+#### 
 
-# era era
+# This repository serves to examine occurrences and the current and future distributions of the **Rana Boylii** populations in North America. Data from the Global Biodiversity Information Facility (GBIF), an open-access source of biodiversity data from several sources (including, but not limited to, iNaturalist, USGS, and museum collections), was utilized in this project.
 
+#### 🛠️ Dependencies
+#The following additional R packages are required (these will be installed when running the main script, `SRC/main.R`):
+
+#+ dismo
+#+ ggplot2
+#+ maps
+#+ maptools
+#+ rnaturalearth
+#+ rnaturalearthdata
+#+ raster
+#+ rgdal
+#+ sf
+#+ sp
+#+ spocc
+#+ tidyverse

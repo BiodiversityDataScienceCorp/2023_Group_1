@@ -3,13 +3,13 @@
 
 ### Elizabeth EbadiRad, Abby Wood, Molly Hennelly, Ahmed Abdalla Ahmed Esmail
 
-# 🐸 Overview
+### 🐸 Overview
 
 #### 
 
 ### This repository serves to examine occurrences and the current and future distributions of the **Rana Boylii** populations in North America. Data from the Global Biodiversity Information Facility (GBIF), an open-access source of biodiversity data from several sources (including, but not limited to, iNaturalist, USGS, and museum collections), was utilized in this project.
 
-#### 🛠️ Dependencies
+## 🛠️ Dependencies
 The following additional R packages are required 
 
 + dismo

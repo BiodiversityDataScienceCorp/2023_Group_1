@@ -1,7 +1,7 @@
 ## Group 1 Applied Data Science Practicum 2023
 ## Repository for Making Species Occurrence and Distribution maps for the Rana Boylii - Foothill Yellow Legged Frog 
 
-https://github.com/[abigailcwood]/[2023_Group_1]/blob/[images]/rboylii.jpg?raw=true 
+https://github.com/[abigailcwood]/[RNR 496B / DSCI 245 - 23/SP - Prudic/Binford]/blob/[images]/rboylii.jpg?raw=true 
 
 ### Elizabeth EbadiRad, Abby Wood, Molly Hennelly, Ahmed Abdalla Ahmed Esmail
 

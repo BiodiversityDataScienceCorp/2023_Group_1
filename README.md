@@ -31,7 +31,8 @@ The following additional R packages are required
 
 ### data: contains data used for occurence and distribution maps and natural history information
 
-#### `Natural History Description.docx`
+#### `Natural History Description.docx` 
+##### Document describing the 
 
 #### `ranaData.csv`
 
@@ -55,6 +56,12 @@ The following additional R packages are required
 
 #### `occurrenceMapRBoylii.jpg`
 
+### homework: contains homework files from homeworks 5 and 6
+
+#### `hw6-output`
+
+#### `RNR HM 5.docx`
+
 ### images: contains imgaes used in repository and documents
 
 #### `rboylii.jpg`
@@ -65,5 +72,9 @@ The following additional R packages are required
 
 ## 🐸 Additional Resources 🐸
 
+US Fish and Wildlife **Rana Boylii** [website](https://www.fws.gov/species/foothill-yellow-legged-frog-rana-boylii) 
 
+California Herps **Rana Boylii** [website](https://californiaherps.com/frogs/pages/r.boylii.html#description)
+
+Global Biodiversity Information Facility's (GBIF) **Rana Boylii** [website](https://www.gbif.org/species/2426814)
 

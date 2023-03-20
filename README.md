@@ -31,8 +31,7 @@ The following additional R packages are required
 
 ### data: contains data used for occurence and distribution maps and natural history information
 
-##### `Natural History Description.docx` 
-##### Document describing the 
+##### `Natural History Description.docx` Document describing taxonomy, key identification characterisitcs, 
 
 ##### `ranaData.csv` 
 
@@ -56,11 +55,11 @@ The following additional R packages are required
 
 ##### `occurrenceMapRBoylii.jpg`
 
-### homework: contains homework files from homeworks 5 and 6
+### homework: contains homework files
 
-##### `hw6-output` 
+##### `hw6-output` Output from homework 6
 
-##### `RNR HM 5.docx`
+##### `RNR HM 5.docx` Output from homework 5
 
 ### images: contains imgaes used in repository and documents
 

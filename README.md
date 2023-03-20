@@ -39,4 +39,29 @@ The following additional R packages are required
 
 #### `wc2-5`
 
+### scripts: contains R scripts for gathering occurrence data, running forecast models, and creating map outputs
+
+#### `currentSDM.R`
+
+#### `futureSDM.R`
+
+#### `gbif.R`
+
+### output: contains generated maps
+
+#### `currentSDM.jpg`
+
+#### `futureSDM.jpg`
+
+#### `occurrenceMapRBoylii.jpg`
+
+### images: contains imgaes used in repository and documents
+
+#### `rboylii.jpg`
+
+#### `rboyliivent.jpg`
+
+## 🐸 Additional Resources 🐸
+
+
 

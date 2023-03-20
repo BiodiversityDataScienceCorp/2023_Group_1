@@ -31,8 +31,12 @@ The following additional R packages are required
 
 ### data: contains data used for occurence and distribution maps
 
-#### Natural History Description.docx
+#### `Natural History Description.docx`
 
-#### ranaData.csv
+#### `ranaData.csv`
+
+#### `cmip5`
+
+#### `wc2-5`
 
 

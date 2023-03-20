@@ -29,7 +29,7 @@ The following additional R packages are required
 
 ## 🐸 Structure 🐸
 
-### data: contains data used for occurence and distribution maps
+### data: contains data used for occurence and distribution maps and natural history information
 
 #### `Natural History Description.docx`
 
@@ -60,6 +60,8 @@ The following additional R packages are required
 #### `rboylii.jpg`
 
 #### `rboyliivent.jpg`
+
+### `README.md`
 
 ## 🐸 Additional Resources 🐸
 

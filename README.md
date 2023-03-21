@@ -71,10 +71,10 @@ The following additional R packages are required
 
 ## 🐸 Additional Resources 🐸
 
-###Reference repository from Applied Data Science Practicum 2022 [link](https://github.com/BiodiversityDataScienceCorp/milkfli-mapping)
+Reference repository from Applied Data Science Practicum 2022 [link](https://github.com/BiodiversityDataScienceCorp/milkfli-mapping)
 
-###US Fish and Wildlife *Rana Boylii* [website](https://www.fws.gov/species/foothill-yellow-legged-frog-rana-boylii) 
+US Fish and Wildlife *Rana Boylii* [website](https://www.fws.gov/species/foothill-yellow-legged-frog-rana-boylii) 
 
-###California Herps *Rana Boylii* [website](https://californiaherps.com/frogs/pages/r.boylii.html#description)
+California Herps *Rana Boylii* [website](https://californiaherps.com/frogs/pages/r.boylii.html#description)
 
-###Global Biodiversity Information Facility's (GBIF) *Rana Boylii* [website](https://www.gbif.org/species/2426814)
+Global Biodiversity Information Facility's (GBIF) *Rana Boylii* [website](https://www.gbif.org/species/2426814)

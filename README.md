@@ -31,29 +31,29 @@ The following additional R packages are required
 
 ### data: contains data used for occurence and distribution maps and natural history information
 
-##### `Natural History Description.docx` Document describing taxonomy, key identification characterisitcs, 
+##### `Natural History Description.docx` Document describing taxonomy, key identification characterisitcs, habitats, and historic range of *Rana Boylii* 
 
-##### `ranaData.csv` 
+##### `ranaData.csv` Data harvested from [GBIF](https://www.gbif.org/) for Foothill Yellow Legged Frog (*R. Boylii*)
 
-##### `cmip5`
+##### `cmip5`Forecast climate data resolution from [WorldClim](http://www.worldclim.org). These data were originally downloaded from the WorldClim website, but stored in the `.RData` format for ease of use. The data are for the year 2070. (_note_: this folder is not under version control, but will be created by running `currentSDM.R`)
 
-##### `wc2-5`
+##### `wc2-5`Climate data from [WorldClim](http://www.worldclim.org) (_note_: this folder is not under version control, but will be created by running `currentSDM.R`) 
 
 ### scripts: contains R scripts for gathering occurrence data, running forecast models, and creating map outputs
 
-##### `currentSDM.R` 
+##### `currentSDM.R` Code for producing species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
-##### `futureSDM.R`
+##### `futureSDM.R` Code for producing species distribution map of future conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
-##### `gbif.R`
+##### `gbif.R` Code for producing occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
 ### output: contains generated maps
 
-##### `currentSDM.jpg`
+##### `currentSDM.jpg` Species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `currentSDM.R`
 
-##### `futureSDM.jpg`
+##### `futureSDM.jpg` Species distribution map of future conditions (70 years from now) of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `currentSDM.R`
 
-##### `occurrenceMapRBoylii.jpg`
+##### `occurrenceMapRBoylii.jpg` Occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `gbif.R`
 
 ### homework: contains homework files
 
@@ -63,9 +63,9 @@ The following additional R packages are required
 
 ### images: contains imgaes used in repository and documents
 
-##### `rboylii.jpg`
+##### `rboylii.jpg` photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
-##### `rboyliivent.jpg`
+##### `rboyliivent.jpg` second photo in repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
 ### `README.md`
 

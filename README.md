@@ -1,7 +1,7 @@
 ## Group 1 Applied Data Science Practicum 2023
 ## Repository for Making Species Occurrence and Distribution maps for the *Rana Boylii* - Foothill Yellow Legged Frog 
 
-![](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/images/rboylii.jpg)
+![](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/images/rboyliiam.jpg)
 
 ### Elizabeth EbadiRad, Abby Wood, Molly Hennelly, Ahmed Abdalla Ahmed Esmail
 
@@ -63,7 +63,7 @@ The following additional R packages are required
 
 ### images: contains imgaes used in repository and documents
 
-##### `rboylii.jpg` photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
+##### `rboyliiam.jpg` photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
 ##### `rboyliivent.jpg` second photo in repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 

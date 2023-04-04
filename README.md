@@ -69,6 +69,18 @@ The following additional R packages are required
 
 ### `README.md`
 
+
+## 🐸 Running the Code 🐸
+
+### Run the files in the following order:
+
+#### `gbif.R`
+
+#### `currentSDM.jpg`
+
+#### `futureSDM.jpg`
+
+
 ## 🐸 Additional Resources 🐸
 
 Reference repository from Applied Data Science Practicum 2022 [link](https://github.com/BiodiversityDataScienceCorp/milkfli-mapping)

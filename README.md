@@ -63,7 +63,7 @@ The following additional R packages are required
 
 ### `LICENSE` BSD 2-Clause License - BiodiversityDataScienceCorp licensing information
 
-### `README.md`
+### `README.md` this file
 
 ## 🐸 Running the Code 🐸
 
@@ -74,7 +74,6 @@ The following additional R packages are required
 #### `currentSDM.jpg`
 
 #### `futureSDM.jpg`
-
 
 ## 🐸 Additional Resources 🐸
 

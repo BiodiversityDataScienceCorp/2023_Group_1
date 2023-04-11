@@ -3,7 +3,7 @@
 
 ![](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/images/rboyliiam.jpg)
 
-### <tt></tt> Elizabeth EbadiRad, Abby Wood, Molly Hennelly, Ahmed Abdalla Ahmed Esmail
+### Elizabeth EbadiRad, Abby Wood, Molly Hennelly, Ahmed Abdalla Ahmed Esmail
 
 ## 🐸 Overview 🐸 
 

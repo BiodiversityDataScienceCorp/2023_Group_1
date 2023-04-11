@@ -31,19 +31,19 @@ The following additional R packages are required
 
 ### 📁 data: contains data used for occurence and distribution maps and natural history information
 
-##### `Natural History Description.docx` Document describing taxonomy, key identification characterisitcs, habitats, and historic range of *Rana Boylii* 
+##### [`Natural History Description.docx`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/data/Natural%20History%20Description.docx) Document describing taxonomy, key identification characterisitcs, habitats, and historic range of *Rana Boylii* 
 
-##### `ranaData.csv` Data harvested from [GBIF](https://www.gbif.org/) for Foothill Yellow Legged Frog (*R. Boylii*)
+##### [`ranaData.csv`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/data/ranaData.csv) Data harvested from [GBIF](https://www.gbif.org/) for Foothill Yellow Legged Frog (*R. Boylii*)
 
-##### `cmip5`Forecast climate data from [WorldClim](http://www.worldclim.org). These data were originally downloaded from the WorldClim website, but stored in the `.RData` format for ease of use. The data are for the year 2070. (_note_: this folder is not under version control, but will be created by running `currentSDM.R`)
+##### [`cmip5`]() Forecast climate data from [WorldClim](http://www.worldclim.org). These data were originally downloaded from the WorldClim website, but stored in the `.RData` format for ease of use. The data are for the year 2070. (_note_: this folder is not under version control, but will be created by running `currentSDM.R`)
 
 ##### `wc2-5`Climate data from [WorldClim](http://www.worldclim.org) (_note_: this folder is not under version control, but will be created by running `currentSDM.R`) 
 
 ### 📁 images: contains imgaes used in repository and documents
 
-##### `rboyliiam.jpg` photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
+##### [`rboyliiam.jpg`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/images/rboyliiam.jpg) photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
-##### `rboyliivent.jpg` second photo in repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
+##### [`rboyliivent.jpg`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/images/rboyliivent.jpg) second photo in repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
 ### 📁 output: contains generated maps
 

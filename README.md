@@ -71,9 +71,9 @@ The following additional R packages are required
 
 ##### `gbif.R`
 
-##### `currentSDM.jpg`
+##### [`currentSDM.jpg`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/output/currentSDM.jpg)
 
-##### `futureSDM.jpg`
+##### [`futureSDM.jpg`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/output/futureSDM.jpg)
 
 ## 🐸 Additional Resources 🐸
 

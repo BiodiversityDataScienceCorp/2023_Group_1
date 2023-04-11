@@ -39,13 +39,11 @@ The following additional R packages are required
 
 ##### `wc2-5`Climate data from [WorldClim](http://www.worldclim.org) (_note_: this folder is not under version control, but will be created by running `currentSDM.R`) 
 
-### 📁 scripts: contains R scripts for gathering occurrence data, running forecast models, and creating map outputs
+### 📁 images: contains imgaes used in repository and documents
 
-##### `currentSDM.R` Code for producing species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
+##### `rboyliiam.jpg` photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
-##### `futureSDM.R` Code for producing species distribution map of future conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
-
-##### `gbif.R` Code for producing occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon)
+##### `rboyliivent.jpg` second photo in repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
 ### 📁 output: contains generated maps
 
@@ -55,11 +53,13 @@ The following additional R packages are required
 
 ##### `occurrenceMapRBoylii.jpg` Occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `gbif.R`
 
-### 📁 images: contains imgaes used in repository and documents
+### 📁 scripts: contains R scripts for gathering occurrence data, running forecast models, and creating map outputs
 
-##### `rboyliiam.jpg` photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
+##### `currentSDM.R` Code for producing species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
-##### `rboyliivent.jpg` second photo in repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
+##### `futureSDM.R` Code for producing species distribution map of future conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
+
+##### `gbif.R` Code for producing occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
 ### `LICENSE` BSD 2-Clause License - BiodiversityDataScienceCorp licensing information
 

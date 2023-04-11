@@ -61,8 +61,9 @@ The following additional R packages are required
 
 ##### `rboyliivent.jpg` second photo in repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
-### `README.md`
+### `LICENSE` BSD 2-Clause License - BiodiversityDataScienceCorp licensing information
 
+### `README.md`
 
 ## 🐸 Running the Code 🐸
 

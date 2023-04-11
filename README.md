@@ -69,11 +69,11 @@ The following additional R packages are required
 
 ### Run the code in the following order:
 
-#### `gbif.R`
+##### `gbif.R`
 
-#### `currentSDM.jpg`
+##### `currentSDM.jpg`
 
-#### `futureSDM.jpg`
+##### `futureSDM.jpg`
 
 ## 🐸 Additional Resources 🐸
 

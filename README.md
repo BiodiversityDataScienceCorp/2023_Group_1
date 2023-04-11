@@ -84,3 +84,7 @@ US Fish and Wildlife *Rana Boylii* [website](https://www.fws.gov/species/foothil
 California Herps *Rana Boylii* [website](https://californiaherps.com/frogs/pages/r.boylii.html#description)
 
 Global Biodiversity Information Facility's (GBIF) *Rana Boylii* [website](https://www.gbif.org/species/2426814)
+
+Lewis and Clark College [website](https://www.lclark.edu/)
+
+University of Arizona [website](https://www.arizona.edu/)

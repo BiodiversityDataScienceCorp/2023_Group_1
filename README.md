@@ -29,7 +29,7 @@ The following additional R packages are required
 
 ## 🐸 Structure 🐸
 
-### data: contains data used for occurence and distribution maps and natural history information
+### 📁 data: contains data used for occurence and distribution maps and natural history information
 
 ##### `Natural History Description.docx` Document describing taxonomy, key identification characterisitcs, habitats, and historic range of *Rana Boylii* 
 
@@ -39,7 +39,7 @@ The following additional R packages are required
 
 ##### `wc2-5`Climate data from [WorldClim](http://www.worldclim.org) (_note_: this folder is not under version control, but will be created by running `currentSDM.R`) 
 
-### scripts: contains R scripts for gathering occurrence data, running forecast models, and creating map outputs
+### 📁 scripts: contains R scripts for gathering occurrence data, running forecast models, and creating map outputs
 
 ##### `currentSDM.R` Code for producing species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
@@ -47,7 +47,7 @@ The following additional R packages are required
 
 ##### `gbif.R` Code for producing occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
-### output: contains generated maps
+### 📁 output: contains generated maps
 
 ##### `currentSDM.jpg` Species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `currentSDM.R`
 
@@ -55,13 +55,7 @@ The following additional R packages are required
 
 ##### `occurrenceMapRBoylii.jpg` Occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `gbif.R`
 
-### homework: contains homework files
-
-##### `hw6-output` Output from homework 6
-
-##### `RNR HM 5.docx` Output from homework 5
-
-### images: contains imgaes used in repository and documents
+### 📁 images: contains imgaes used in repository and documents
 
 ##### `rboyliiam.jpg` photo at the beginning of repository from [California Herps](https://californiaherps.com/frogs/pages/r.boylii.html)
 
@@ -72,7 +66,7 @@ The following additional R packages are required
 
 ## 🐸 Running the Code 🐸
 
-### Run the files in the following order:
+### Run the code in the following order:
 
 #### `gbif.R`
 

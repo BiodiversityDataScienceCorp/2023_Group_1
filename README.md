@@ -51,7 +51,7 @@ The following additional R packages are required
 
 ##### `currentSDM.jpg` Species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `currentSDM.R`
 
-##### `futureSDM.jpg` Species distribution map of future conditions (70 years from now) of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `currentSDM.R`
+##### `futureSDM.jpg` Species distribution map of future conditions (70 years from now) of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `futureSDM.R`
 
 ##### `occurrenceMapRBoylii.jpg` Occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `gbif.R`
 

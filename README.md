@@ -1,6 +1,5 @@
 ## Group 1 Applied Data Science Practicum 2023
 ## Repository for Making Species Occurrence and Distribution maps for the *Rana Boylii* - Foothill Yellow Legged Frog 
-#test
 
 ![](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/images/rboyliiam.jpg)
 
@@ -52,17 +51,17 @@ The following additional R packages are required
 
 ##### [`futureSDM.jpg`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/output/futureSDM.jpg) Species distribution map of future conditions (70 years from now) of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `futureSDM.R`
 
-##### `occurrenceMapRBoylii.jpg` Occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `gbif.R`
+##### [`occurrenceMapRBoylii.jpg`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/output/occurrenceMapRBoylii.jpg) Occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon), produced by `gbif.R`
 
 ### 📁 scripts: contains R scripts for gathering occurrence data, running forecast models, and creating map outputs
 
-##### `currentSDM.R` Code for producing species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
+##### [`currentSDM.R`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/scripts/currentSDM.R) Code for producing species distribution map of current conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
-##### `futureSDM.R` Code for producing species distribution map of future conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
+##### [`futureSDM.R`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/scripts/futureSDM.R) Code for producing species distribution map of future conditions of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
-##### `gbif.R` Code for producing occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon)
+##### [`gbif.R`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/scripts/gbif.R) Code for producing occurrence map of *R. Boylii* in the western United States (California, Nevada, and Oregon)
 
-### `LICENSE` BSD 2-Clause License - BiodiversityDataScienceCorp licensing information
+### [`LICENSE`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/LICENSE) BSD 2-Clause License - BiodiversityDataScienceCorp licensing information
 
 ### `README.md` this file
 
@@ -70,7 +69,7 @@ The following additional R packages are required
 
 ### Run the code in the following order:
 
-##### `gbif.R`
+##### [`gbif.R`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/scripts/gbif.R)
 
 ##### [`currentSDM.jpg`](https://github.com/BiodiversityDataScienceCorp/2023_Group_1/blob/main/output/currentSDM.jpg)
 
